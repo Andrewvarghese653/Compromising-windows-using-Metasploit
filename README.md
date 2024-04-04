@@ -95,7 +95,7 @@ at meterpreter > prompt, execute this command:
 netstat
 A list of network connections appears, including one to a remote port of 4444, as highlighted in the image below.
 Notice the "PID/Program name" value for this connection, which is redacted 
-![image](https://github.com/Darkwebnew/Compromising-windows-using-Metasploit/assets/143114486/b01cdebf-4e0f-4184-b6c3-de19d44d03a0)
+
 
 
 Post Exploitation
