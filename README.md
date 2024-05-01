@@ -1,5 +1,5 @@
 # EX-6.Compromising-windows-using-Metasploit
-## Date:
+## Date:06/04/2024
 Compromising windows using Metasploit
 # Metasploit
 Compromising windows using Metasploit
